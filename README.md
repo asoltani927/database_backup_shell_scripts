@@ -1,4 +1,4 @@
-# database_backup_shell_scripts
+# Database backup shell scripts
 Shell Scripts for Backuping Database
  
 ## MySQL & MariaDB
